@@ -1,3 +1,3 @@
 # hello
-Github の練習
-HIrotoくんにGitHubを勧めるために再度ゼロから
+# Github の練習
+# HIrotoくんにGitHubを勧めるために再度ゼロから
